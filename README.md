@@ -4,7 +4,7 @@
 # Running the project
 ### You can easily run the project by going to the Replit link below you just need to `fork` the project and click on the green `run` button
 
-<a href="https://replit.com/@pejmankheyri/CoffeeMachine" target="_blank">Replit Link</a>
+https://replit.com/@pejmankheyri/CoffeeMachine
 
 # Project Help
 ### In the first step you can choose your coffee 
