@@ -1,6 +1,7 @@
 
 from libs import MENU, resources
 
+
 def check_user_choose(user_choose):
     if user_choose in MENU:
         return True
